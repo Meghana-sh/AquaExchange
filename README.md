@@ -146,19 +146,6 @@ Frontend will run on `http://localhost:3000`
 - View system analytics
 - Manage users and listings
 
-## 🌟 Future Enhancements
-
-- [ ] Real-time chat between users
-- [ ] GPS tracking for deliveries
-- [ ] Payment gateway integration
-- [ ] Mobile application (React Native)
-- [ ] AI-based pricing recommendations
-- [ ] Water quality prediction ML model
-- [ ] Multi-language support
-- [ ] SMS/Email notifications
-- [ ] Advanced analytics dashboard
-- [ ] Blockchain for transparency
-
 ## 🛡️ Security Features
 
 - Password hashing with bcrypt
@@ -181,20 +168,6 @@ cd frontend
 npm test
 ```
 
-## 📦 Deployment
+---
 
-### Backend Deployment (Heroku/Railway/Render)
-1. Set environment variables
-2. Update MongoDB connection string
-3. Deploy backend
-4. Note the deployed URL
-
-### Frontend Deployment (Vercel/Netlify)
-1. Update `VITE_API_URL` to backend URL
-2. Build the project: `npm run build`
-3. Deploy `dist` folder
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+**Made with 💧 for a better water future**
